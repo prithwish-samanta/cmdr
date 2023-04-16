@@ -12,4 +12,8 @@ module.exports = {
     description: "Open a file or directory in the default application",
     usage: "cmdr open <filename>",
   },
+  giti: {
+    description: "Create gitignore based on project type",
+    usage: "cmdr giti",
+  },
 };

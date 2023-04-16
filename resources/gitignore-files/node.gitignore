@@ -1,0 +1,33 @@
+# Directories
+node_modules/
+dist/
+coverage/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build files
+build/
+out/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Testing files
+*.swp
+*.swo
+*.swx
+*.swm
+*.test.*
+*.spec.*

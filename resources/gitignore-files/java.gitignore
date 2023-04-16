@@ -1,0 +1,58 @@
+# Compiled class files
+*.class
+
+# Build output directories
+bin/
+target/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven files
+log/
+target/
+
+# Gradle files
+.gradle/
+build/
+
+# Test output directories
+test-output/
+
+# Eclipse files
+.settings/
+.classpath
+.project
+
+# IntelliJ files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VSCode files
+.vscode/
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Other files
+.DS_Store
+*.log
+*.log.*
+*.bak
+*.swp
+*~
+*.cache
+
+# Dependency management
+# These are needed for Maven and Gradle
+!**/src/main/**
+!**/src/test/**

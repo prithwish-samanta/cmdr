@@ -1,0 +1,38 @@
+# Compiled Object files
+*.o
+*.a
+*.exe
+
+# Dependency directories
+/vendor/
+/go.sum
+/go.mod
+
+# Testing files
+/test
+/coverage
+
+# Binary files
+*.test
+
+# IDE files
+.idea/
+
+# macOS-specific files
+.DS_Store
+
+# Editors
+*~
+*.swp
+*.swo
+*.swn
+*.swo
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig

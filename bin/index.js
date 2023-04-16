@@ -35,6 +35,9 @@ if (args[0] === "-h" || args[0] === "--help") {
     case "open":
       require("../commands/open")(args.slice(1));
       break;
+    case "giti":
+      require("../commands/giti")();
+      break;
     default:
       console.log(chalk.red(`Unknown command: ${args[0]}`));
       console.log(chalk.yellow(`Use -h or --help to see available commands.`));

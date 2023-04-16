@@ -1,0 +1,38 @@
+# Compiled Object files
+*.o
+*.class
+*.jar
+
+# Build directories
+build/
+out/
+
+# IDE files
+.idea/
+.gradle/
+.gradle.kts
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Dependencies
+/.gradle
+
+# Kotlin build files
+buildSrc/build/
+
+# Log files
+*.log
+
+# IntelliJ project files
+*.ipr
+*.iws
+*.iml
+
+# macOS-specific files
+.DS_Store
+
+# Editor-specific files
+*.swp
+*~

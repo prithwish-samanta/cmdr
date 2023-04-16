@@ -1,0 +1,27 @@
+# Build and Derived Data
+.build/
+DerivedData/
+
+# Swift Package Manager
+# Add this if you're using SPM in your project
+# Package.resolved
+# .build/
+
+# Xcode
+*.pbxproj
+*.xcworkspace/
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Playgrounds
+timeline.xctimeline/
+playground.xcworkspace/
+
+# Swift Package Manager
+# Add this if you're using SPM in your project
+# Package.resolved
+
+# Other
+.DS_Store
+Thumbs.db

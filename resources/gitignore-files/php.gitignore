@@ -1,0 +1,31 @@
+# Composer
+/vendor/
+
+# Laravel-specific directories
+bootstrap/cache/
+public/storage/
+storage/*.key
+.env.*.local
+.env.local
+.env.phpunit
+.env.testing
+composer.phar
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.sublime-snippet
+*.sublime-completions
+*.phpstorm.meta.php
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
